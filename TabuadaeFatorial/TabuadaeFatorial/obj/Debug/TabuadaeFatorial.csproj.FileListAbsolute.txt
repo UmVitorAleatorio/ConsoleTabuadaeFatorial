@@ -1,0 +1,7 @@
+C:\Users\vitor\source\repos\Tarefa5\TabuadaeFatorial\TabuadaeFatorial\bin\Debug\TabuadaeFatorial.exe.config
+C:\Users\vitor\source\repos\Tarefa5\TabuadaeFatorial\TabuadaeFatorial\bin\Debug\TabuadaeFatorial.exe
+C:\Users\vitor\source\repos\Tarefa5\TabuadaeFatorial\TabuadaeFatorial\bin\Debug\TabuadaeFatorial.pdb
+C:\Users\vitor\source\repos\Tarefa5\TabuadaeFatorial\TabuadaeFatorial\obj\Debug\TabuadaeFatorial.csproj.AssemblyReference.cache
+C:\Users\vitor\source\repos\Tarefa5\TabuadaeFatorial\TabuadaeFatorial\obj\Debug\TabuadaeFatorial.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\Tarefa5\TabuadaeFatorial\TabuadaeFatorial\obj\Debug\TabuadaeFatorial.exe
+C:\Users\vitor\source\repos\Tarefa5\TabuadaeFatorial\TabuadaeFatorial\obj\Debug\TabuadaeFatorial.pdb
